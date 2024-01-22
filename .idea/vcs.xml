@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BLETutorialYt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bluetooth-Interview-task" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BluetoothHelper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GameTask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MultipleBackstacks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MultipleBackstacksCompose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Paging3JetpackComposeDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PagingTask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/avoid-memory-leak-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blue-pair" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compose-sudoku" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/memory-Leak-Learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sensor-guide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/service" vcs="Git" />
+  </component>
+</project>
